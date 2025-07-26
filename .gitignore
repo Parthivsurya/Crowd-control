@@ -10,7 +10,7 @@ venv*/
 __pycache__/
 
 # Ignore video files
-*.mp4
+
 
 # Ignore macOS junk
 .DS_Store
