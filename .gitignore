@@ -1,0 +1,21 @@
+# Ignore everything with .pt extension...
+*.pt
+
+# ...except yolov8n.pt
+!yolov8n.pt
+
+# Ignore Python virtual environments
+.venv/
+venv*/
+__pycache__/
+
+# Ignore video files
+*.mp4
+
+# Ignore macOS junk
+.DS_Store
+
+# Ignore logs and temporary stuff
+*.log
+*.dylib
+.ipynb_checkpoints/
